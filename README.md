@@ -1,13 +1,23 @@
-## G'day Fellas, Adit speaking! 👋
+## G'day Fellas, I am Muhammad Aditya Bayhaqie! 👋
 
 An independent Software Engineer who loves to create and share projects about Machine Learning and Data Science technology! I've enjoyed Python and C++ and make it the most language that i used in many project that i try to pursue!.
 
-- 🔭 I’m currently working as Local Head of Operation in <a href="https://aiesec.org/">AIESEC in Unsri</a>
-- 🌱 I’m currently learning Machine Learning especially NLP and Deep Learning
-- 👯 I’m looking to collaborate on Support Systems Related Projects!
-- 💬 Ask me about Product Management, Graphic Designing, UI/UX and Machine Learning
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love to Watch WWE and Play some Video Games!
+### 🔭 Areas of Interest
+- **Product Management** & **Project Management**
+- **Machine Learning** & **Data Science**
+- **Web Development**
+- **UI/UX Design**
+
+### 🌱 What I'm Currently Working On
+- Building a Job recommendation app using **Python** and **Streamlit**.
+- Building a Memorandum of Understanding and Letter of Agreement Extraction app using **Python** and **Streamlit**.
+- Building a Maze Game using **Python** and **Streamlit**.
+
+<br>
+- 💼 I’m currently working as Local Head of Operation at <a href="https://aiesec.org/">AIESEC in Unsri</a><br>
+- 💬 Ask me about Product Management, Graphic Designing, UI/UX and Machine Learning<br>
+- 😄 Pronouns: He/Him<br>
+- ⚡ Fun fact: Minangkabau Ethnic!
 
 ### Github Statistic
 <table align="center">
@@ -26,6 +36,11 @@ An independent Software Engineer who loves to create and share projects about Ma
 </td>
 </tr>
 </table>
+
+### 📫 How to Reach Me
+- [Email](adityabayhaqie@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bayhaqieee/)
+- [Work Email](adityabayhaqie@aiesec.net)
 
 <!--
 **Bayhaqieee/Bayhaqieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

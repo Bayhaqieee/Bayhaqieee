@@ -1,5 +1,13 @@
-## Hi there 👋
+## G'day Fellas, Adit speaking! 👋
 
+An independent Software Engineer who loves to create and share projects about Machine Learning and Data Science technology! I've enjoyed Python and C++ and make it the most language that i used in many project that i try to pursue!.
+
+- 🔭 I’m currently working as Local Head of Operation in <a href="https://aiesec.org/">AIESEC</a>
+- 🌱 I’m currently learning Machine Learning especially NLP and Deep Learning
+- 👯 I’m looking to collaborate on Support Systems Related Projects!
+- 💬 Ask me about Graphic Designing, UI/UX, Machine Learning and Web Development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I Love to Watch WWE and Play some Video Games!
 <!--
 **Bayhaqieee/Bayhaqieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

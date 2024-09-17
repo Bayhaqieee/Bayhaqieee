@@ -10,12 +10,22 @@ An independent Software Engineer who loves to create and share projects about Ma
 - ⚡ Fun fact: I Love to Watch WWE and Play some Video Games!
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/Bayhaqieee">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bayhaqieee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bayhaqieee&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Bayhaqieee&theme=radical&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayhaqieee&theme=radical&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayhaqieee&theme=radical&exclude_repo=dotfiles,si-biji&hide=javascript,ejs,blade,html,pug,css,scss&hide_border=false&no-bg=true&no-frame=true&langs_count=9"/>
+  
+  </td>
+</tr>
+</table>
 
 <!--
 **Bayhaqieee/Bayhaqieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

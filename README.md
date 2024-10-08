@@ -11,7 +11,7 @@ An independent Software Engineer who loves to create and share projects about Ma
 ### 🌱 What I'm Currently Working On
 - Building a Job recommendation app using **Python** and **Streamlit**.
 - Building a Memorandum of Understanding and Letter of Agreement Extraction app using **Python** and **Streamlit**.
-- Building a Maze Game using **Python** and **Streamlit**.
+- Building a Maze Game using **Python**.
 
 <br>
 - 💼 I’m currently working as Local Head of Operation at <a href="https://aiesec.org/">AIESEC in Unsri</a><br>

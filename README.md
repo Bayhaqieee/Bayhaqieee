@@ -31,7 +31,7 @@ An independent Software Engineer who loves to create and share projects about Ma
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayhaqieee&theme=great-gatsby&exclude_repo=dotfiles,si-biji&hide=ejs,blade,pug,scss,xslt&hide_border=false&no-bg=true&no-frame=true&langs_count=9"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayhaqieee&theme=great-gatsby&exclude_repo=dotfiles,si-biji&hide=ejs,blade,pug,html,css,scss,xslt&hide_border=false&no-bg=true&no-frame=true&langs_count=9"/>
   
 </td>
 </tr>

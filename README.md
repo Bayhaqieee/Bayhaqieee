@@ -14,7 +14,7 @@ An independent Software Engineer who loves to create and share projects about Ma
 - Building a Maze Game using **Python**.
 
 <br>
-- 💼 I’m currently working as Local Head of Operation at <a href="https://aiesec.org/">AIESEC in Unsri</a><br>
+- 💼 I’m currently working as Core of Mahine Learning at <a href="https://gdg.community.dev/gdg-on-campus-universitas-sriwijaya-palembang-indonesia/">Google Developer Group on Campus : Universitas Sriwijaya</a><br>
 - 💬 Ask me about Product Management, Graphic Designing, UI/UX and Machine Learning<br>
 - 😄 Pronouns: He/Him<br>
 - ⚡ Fun fact: Minangkabau Ethnic!

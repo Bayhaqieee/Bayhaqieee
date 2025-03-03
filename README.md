@@ -9,9 +9,10 @@ An independent Software Engineer who loves to create and share projects about Ma
 - **UI/UX Design**
 
 ### 🌱 What I'm Currently Working On
-- Building a Job recommendation app using **Python** and **Streamlit**.
+- Building Several Projects using **Python**, **Jupyter Notebook** and **R Language**.
 - Building a Memorandum of Understanding and Letter of Agreement Extraction app using **Python** and **Streamlit**.
-- Building a Maze Game using **Python**.
+- Deepening My Knowledge using **Python**.
+- Expanding My Knowledge by using **R Language**.
 
 <br>
 - 💼 I’m currently working as Core of Mahine Learning at <a href="https://gdg.community.dev/gdg-on-campus-universitas-sriwijaya-palembang-indonesia/">Google Developer Group on Campus : Universitas Sriwijaya</a><br>

@@ -25,7 +25,7 @@ An independent Software Engineer who loves to create and share projects about Ma
 
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bayhaqieee/) [![LinkedIn](https://www.linkedin.com/in/bayhaqieee/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bayhaqieee/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayhaqieee/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bayhaqieee&theme=appretince&no-frame=false&no-bg=false&margin-w=4)
@@ -42,13 +42,8 @@ An independent Software Engineer who loves to create and share projects about Ma
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayhaqieee&theme=apprentice&exclude_repo=dotfiles,si-biji&hide=ejs,blade,pug,html,css,scss,xslt&hide_border=false&no-bg=true&no-frame=true&langs_count=12"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayhaqieee&layout=donut-vertical)](https://github.com/bayhaqieee/github-readme-stats)
   
 </td>
 </tr>
 </table>
-
-### 📫 How to Reach Me
-- [Email](adityabayhaqie@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/bayhaqieee/)
-- [Work Email](adityabayhaqie@aiesec.net)

@@ -35,14 +35,14 @@ An independent Software Engineer who loves to create and share projects about Ma
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bayhaqieee&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bayhaqieee&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayhaqieee&theme=apprentice&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayhaqieee&theme=transparent&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayhaqieee&layout=donut-vertical)](https://github.com/bayhaqieee/github-readme-stats)
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayhaqieee&theme=transparent&exclude_repo=dotfiles,si-biji&hide=ejs,blade,html,pug,css,scss&hide_border=false&no-bg=true&no-frame=true&langs_count=9"/>
   
 </td>
 </tr>

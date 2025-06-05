@@ -15,7 +15,7 @@ An independent Software Engineer who loves to create and share projects about Ma
 - Challenging Myself to Join Multiple Research and Competition, do Email or Chat me if there is any opportunities.
 
 <br>
-- 💼 I’m currently studying Informatics @ Universitas Sriwijaya
+- 💼 I’m currently studying Informatics @ Universitas Sriwijaya<br>
 - 💬 Ask me about Product Management, Graphic Designing, UI/UX and Machine Learning<br>
 - 😄 Pronouns: He/Him<br>
 

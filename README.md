@@ -69,21 +69,21 @@ An independent Software Engineer who loves to create and share projects about Ma
 ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge\&logo=notion\&logoColor=fff) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge\&logo=googledrive\&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bayhaqieee&theme=appretince&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bayhaqieee&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### Github Statistic
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bayhaqieee&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bayhaqieee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayhaqieee&theme=transparent&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayhaqieee&theme=tokyonight&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayhaqieee&theme=transparent&exclude_repo=dotfiles,si-biji&hide=ejs,blade,html,pug,css,scss&hide_border=false&no-bg=true&no-frame=true&langs_count=9"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayhaqieee&theme=tokyonight&exclude_repo=dotfiles,si-biji&hide=ejs,blade,html,pug,css,scss&hide_border=false&no-bg=true&no-frame=true&langs_count=9"/>
   
 </td>
 </tr>

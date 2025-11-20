@@ -3,21 +3,26 @@
 An independent Software Engineer who loves to create and share projects about Machine Learning and Data Science technology! I've enjoyed Python, C++ and R and make it the most language that i used in many project that i try to pursue!.
 
 ### 🔭 Areas of Interest
-- **Product Management** & **Project Management**
+- **Generative AI**
 - **Machine Learning** & **Data Science**
 - **Web Development**
+- **Product Management** & **Project Management**
 - **UI/UX Design**
 
 ### 🌱 What I'm Currently Working On
 - Building Several Projects using **Multiple Languages**.
 - Deepening My Knowledge on **AI/ML**.
-- Expanding My Knowledge on **DevOps**.
-- Challenging Myself to Join Multiple Research and Competition, do Email or Chat me if there is any opportunities.
+- Expanding My Knowledge on **DevOps & MLOps**.
+- Challenging Myself to Join Multiple Research and Competition, do <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> and Chat me if there is any opportunities.
 
 <br>
 - 💼 I’m currently studying Informatics @ Universitas Sriwijaya<br>
 - 💬 Ask me about Product Management, Graphic Designing, UI/UX and Machine Learning<br>
 - 😄 Pronouns: He/Him<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bayhaqieee.bayhaqieee&"  />
+</div>
 
 ## 💻 Tech Stack:
 #### Programming Languages
@@ -66,6 +71,12 @@ An independent Software Engineer who loves to create and share projects about Ma
 #### Productivity & Management
 
 ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge\&logo=notion\&logoColor=fff) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge\&logo=googledrive\&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayhaqieee/bayhaqieee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayhaqieee/bayhaqieee/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bayhaqieee/bayhaqieee/output/github-snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bayhaqieee&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
